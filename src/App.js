@@ -6,7 +6,6 @@ import Login from './Containers/Login/Login';
 import Signup from './Containers/Signup/Signup';
 import Pure from './Components/pure-component';
 import Profile from './Containers/profile/Profile';
-
 class App extends React.Component {
   render() {
     return (
